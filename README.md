@@ -1,73 +1,37 @@
-# Space Jekyll
+## Welcome to GitHub Pages
 
-A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
+You can use the [editor on GitHub](https://github.com/inka-solutions/inka-solutions-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-See a live demo [here](https://victorvoid.github.io/space-jekyll-template/).
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot.png?raw=true)
+### Markdown
 
-# Site/User Settings
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-customize your site in ``_config.yml``
+```markdown
+Syntax highlighted code block
 
-```ruby
+# Header 1
+## Header 2
+### Header 3
 
-# Site settings
-description: A blog about lorem ipsum
-baseurl: "" # the subpath
-url: "" # the base hostname &/|| protocol for your site 
+- Bulleted
+- List
 
-# User settings
-username: Lorem Ipsum
-user_description: Lorem Developer
-user_title: Lorem Ipsum
-email: lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+1. Numbered
+2. List
 
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 ```
 
-## How to create a post ? 
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-_posts create a file .md with structure:
+### Jekyll Themes
 
-```md
----
-layout: post
-title: "Lorem ipsum speak.."
-date: 2016-09-13 01:00:00
-image: '/assets/img/post-image.png'
-description: 'about tech'
-tags:
-- lorem
-- tech 
-categories:
-- Lorem ipsum
-twitter_text: 'How to speak with Lorem'
----
-```
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inka-solutions/inka-solutions-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-## License
-The MIT License (MIT)
+### Support or Contact
 
-Copyright (c) 2016 Victor Igor
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
