@@ -4,7 +4,7 @@ description: "Inka Solutions Limited"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://inka-solutions.github.io/inka-solutions-website/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: linka-solutions
+username: inka-solutions
 user_title: Stephen Ellis
 email: stephen@inkasolution.co.uk
 twitter_username: stephen_eh
